@@ -22,11 +22,7 @@ Download the .NET Framework:
 
 https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
-Then download the Snake Game:
-
-°°°°°°°°°°°°
-
-Double-click to run.
+Then download SnakeNG.exe
 
 ```
 
