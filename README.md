@@ -27,6 +27,6 @@ Optimal settings:
 
 Font-Size: 12
 Font: Cascadia Mono
-Windows-Size: 120x30
+Window-Size: 120x30
 
 ```
